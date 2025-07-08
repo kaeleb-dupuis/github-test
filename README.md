@@ -20,16 +20,12 @@ this is normal text, **this is bold text**, *this is italic text,* ***this is bo
 3. I love lists.
   
    this is the fourth entry into this list
+   
 * Liar!
 * who am i?
 
-this is an [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewLuc5U13d8LSKRpzXqv0jzGSh_Om6gZCjg&s):
+    this is an [image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewLuc5U13d8LSKRpzXqv0jzGSh_Om6gZCjg&s):
 
 that was a link! <br>
-
-
-
-
-
-
-
+![This is an image!](/Sprite-0001.png)<br>
+heh.
